@@ -1,7 +1,6 @@
 ---
 slug: training
 title: Training Courses
-toc: true
 ---
 
 
